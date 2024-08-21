@@ -3,7 +3,7 @@
 # Introduction
 
 This repository provides a PyTorch implementation of speaker recognition framework
-![cssl](Multi-Order Acoustic Simulation for Replay Voice Spoofing Detection.png)
+![cssl](figure.png)
 
 
 # Dependencies
